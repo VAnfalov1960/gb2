@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "title": "Наши услуги",
+            "type": "sub",
+            "badgeValue": "new",
+            "active": false,
+            "children": [
+                { "path": "/", "title": "В начало", "type": "link" },
+                { "path": "/shop/courses", "title": "Онлайн курсы", "type": "link" },
+                { "path": "/shop/theatre", "title": "Детский кинотеатр", "type": "link" }
+            ]
+        },
+        {
+            "title": "О нас",
+            "type": "sub",
+            "badgeValue": "new",
+            "active": false,
+            "children": [
+                { "path": "/page/about", "title": "О нас", "type": "link" },
+                { "path": "/page/contact", "title": "Контакты", "type": "link" }
+            ]
+        }
+
+    ]
+}
